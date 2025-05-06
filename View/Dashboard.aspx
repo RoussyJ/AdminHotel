@@ -14,23 +14,7 @@
 			<!--<h2><?php //print $_SESSION['nombres']; ?> ADMINISTRACIÓN DE LA INTRANET</h2>-->
 			<!-- end page-header -->
 			<div class="row">
-				<div class="col-lg-3 col-md-6">
-					<div class="widget widget-stats bg-info">
-						 <div class="stats-icon stats-icon-lg">
-                            <i class="fa fa-user"></i>
-						
-					     </div>
-					     <div class="stats-content">
-					     	<div class="stats-title" style="font-size: 14px;">
-					     		ADMISION
-					     		
-					     	</div>
-					     	
-					     	
-					     </div>
-					</div>
-					
-				</div>
+				
 				<div class="col-lg-3 col-md-6">
 					<div class="widget widget-stats bg-danger">
 						 <div class="stats-icon stats-icon-lg">
@@ -39,7 +23,7 @@
 					     </div>
 					     <div class="stats-content">
 					     	<div class="stats-title" style="font-size: 14px;">
-					     		HOSPITALIZACION
+					     		USUARIOS
 					     		
 					     	</div>
 					     	<div class="stats-number">
@@ -68,7 +52,7 @@
 					     </div>
 					     <div class="stats-content">
 					     	<div class="stats-title" style="font-size: 14px;">
-					     		AMBULANCIA
+					     		RECEPCINISTAS
 					     		
 					     	</div>
 					     	<div class="stats-number">
@@ -97,7 +81,7 @@
 					     </div>
 					     <div class="stats-content">
 					     	<div class="stats-title" style="font-size: 14px;">
-					     		AGENDA MEDICA
+					     		HABITACIONES
 					     		
 					     	</div>
 					     	<div class="stats-number">
@@ -126,7 +110,7 @@
 					     </div>
 					     <div class="stats-content">
 					     	<div class="stats-title" style="font-size: 14px;">
-					     		FARMACIA
+					     		RESERVAS
 					     		
 					     	</div>
 					     	<div class="stats-number">
@@ -147,237 +131,11 @@
 					</div>
 					
 				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="widget widget-stats " style="background-color: #5ACFCF;">
-						 <div class="stats-icon stats-icon-lg">
-                            <i class="ion-person-stalker"></i>
-						
-					     </div>
-					     <div class="stats-content">
-					     	<div class="stats-title" style="font-size: 14px;">
-					     		ARCHIVO DE TARIFAS MEDICAS
-					     		
-					     	</div>
-					     	<div class="stats-number">
-					     		7,58445
-					     	</div>
-					     	<div class="stats-progress progress">
-					     		<div class="progress-bar" style="width: 70.1%">
-					     			
-					     		</div>
-					     		
-					     	</div>
-					     	<div class="stats-desc">
-					     		Better than last week(70.1%)
-					     		
-					     	</div>
-					     	
-					     </div>
-					</div>
-					
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="widget widget-stats bg-info">
-						 <div class="stats-icon stats-icon-lg">
-						<i class="fa fa-user"></i>
-					
-						 </div>
-						 <div class="stats-content">
-				     		<div class="stats-title" style="font-size: 14px;">
-				     			ATENCIONES DEL CLIENTE
-				     		
-				     		</div>
-				     		<div class="stats-number">
-				     			7,58445
-				     		</div>
-				     		<div class="stats-progress progress">
-				     			<div class="progress-bar" style="width: 70.1%">
-				     			
-				     			</div>
-				     		
-				     		</div>
-				     		<div class="stats-desc">
-				     			Better than last week(70.1%)
-				     		
-				     		</div>
-				     	
-						 </div>
-					</div>
 				
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="widget widget-stats bg-danger">
-						 <div class="stats-icon stats-icon-lg">
-						<i class="ion-person"></i>
-					
-						 </div>
-						 <div class="stats-content">
-				     		<div class="stats-title" style="font-size: 14px;">
-				     			VENTAS
-				     		
-				     		</div>
-				     		<div class="stats-number">
-				     			7,58445
-				     		</div>
-				     		<div class="stats-progress progress">
-				     			<div class="progress-bar" style="width: 70.1%">
-				     			
-				     			</div>
-				     		
-				     		</div>
-				     		<div class="stats-desc">
-				     			Better than last week(70.1%)
-				     		
-				     		</div>
-				     	
-						 </div>
-					</div>
 				
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="widget widget-stats bg-purple">
-						 <div class="stats-icon stats-icon-lg">
-						<i class="ion-person-stalker"></i>
-					
-						 </div>
-						 <div class="stats-content">
-				     		<div class="stats-title" style="font-size: 14px;">
-				     			FACTURAS
-				     		
-				     		</div>
-				     		<div class="stats-number">
-				     			7,58445
-				     		</div>
-				     		<div class="stats-progress progress">
-				     			<div class="progress-bar" style="width: 70.1%">
-				     			
-				     			</div>
-				     		
-				     		</div>
-				     		<div class="stats-desc">
-				     			Better than last week(70.1%)
-				     		
-				     		</div>
-				     	
-						 </div>
-					</div>
 				
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="widget widget-stats " style="background-color: #FAC84E;">
-						 <div class="stats-icon stats-icon-lg">
-						<i class="fa fa-globe fa-fw"></i>
-					
-						 </div>
-						 <div class="stats-content">
-				     		<div class="stats-title" style="font-size: 14px;">
-				     			GASTOS DEL DÍA
-				     		
-				     		</div>
-				     		<div class="stats-number">
-				     			7,58445
-				     		</div>
-				     		<div class="stats-progress progress">
-				     			<div class="progress-bar" style="width: 70.1%">
-				     			
-				     			</div>
-				     		
-				     		</div>
-				     		<div class="stats-desc">
-				     			Better than last week(70.1%)
-				     		
-				     		</div>
-				     	
-						 </div>
-					</div>
 				
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="widget widget-stats " style="background-color: #53BE9A;">
-						 <div class="stats-icon stats-icon-lg">
-						 <i class="fa fa-globe fa-fw"></i>
-					
-						 </div>
-						 <div class="stats-content">
-				     		<div class="stats-title" style="font-size: 14px;">
-				     			COMPRAS
-				     		
-				     		</div>
-				     		<div class="stats-number">
-				     			7,58445
-				     		</div>
-				     		<div class="stats-progress progress">
-				     			<div class="progress-bar" style="width: 70.1%">
-				     			
-				     			</div>
-				     		
-				     		</div>
-				     		<div class="stats-desc">
-				     			Better than last week(70.1%)
-				     		
-				     		</div>
-				     	
-						 </div>
-					</div>
 				
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="widget widget-stats " style="background-color: #5ACFCF;">
-						 <div class="stats-icon stats-icon-lg">
-						  <i class="ion-person-stalker"></i>
-					
-						 </div>
-						 <div class="stats-content">
-				     		<div class="stats-title" style="font-size: 14px;">
-				     			CONSULTA DE STOCK
-				     		
-				     		</div>
-				     		<div class="stats-number">
-				     			7,58445
-				     		</div>
-				     		<div class="stats-progress progress">
-				     			<div class="progress-bar" style="width: 70.1%">
-				     			
-				     			</div>
-				     		
-				     		</div>
-				     		<div class="stats-desc">
-				     			Better than last week(70.1%)
-				     		
-				     		</div>
-				     	
-						 </div>
-					</div>
-				
-				</div>
-				<div class="col-lg-3 col-md-6">
-				<div class="widget widget-stats " style="background-color: #5ACFCF;">
-					 <div class="stats-icon stats-icon-lg">
-					  <i class="ion-person-stalker"></i>
-					 </div>
-					 <div class="stats-content">
-			     		<div class="stats-title" style="font-size: 14px;">
-			     			CONSULTA DE VENTA
-			     		
-			     		</div>
-			     		<div class="stats-number">
-			     			7,58445
-			     		</div>
-			     		<div class="stats-progress progress">
-			     			<div class="progress-bar" style="width: 70.1%">
-			     			
-			     			</div>
-			     		
-			     		</div>
-			     		<div class="stats-desc">
-			     			Better than last week(70.1%)
-			     		
-			     		</div>
-     	
-					 </div>
-				</div>
-
-</div>
 
 			    <!-- begin col-12 -->
 			    <!--<div class="col-md-12 ui-sortable">-->
