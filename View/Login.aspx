@@ -72,7 +72,7 @@
                             <input type="submit" value="Sign me in" id="boton" class="btn btn-primary btn-block btn-lg" onclick="return validar_login();" />
                         </div>
                         <div class="m-t-20 m-b-40 p-b-40 text-inverse">
-                            click <a href="register_v3.html">here</a> to register.
+                            click.... <a href="register_v3.html">here</a> to register.
                         </div>
                     </form>
                 </div>
